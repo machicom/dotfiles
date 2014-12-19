@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/usr/local/lib/ruby/gems/1.9.1/gems/sequel-3.29.0'
+let g:netrw_dirhist_2='/usr/local/lib/ruby/gems/1.9.1/gems/msgpack-rpc-0.4.5/lib/msgpack/rpc'
+let g:netrw_dirhist_3='/app/homes/unit/machidaa/NCApplication'
+let g:netrw_dirhist_4='/app/homes/unit/machidaa/NextCore'

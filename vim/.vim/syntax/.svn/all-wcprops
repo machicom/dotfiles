@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/vim/!svn/ver/15/.vim/syntax
+END
+cvsannotate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vim/!svn/ver/1/.vim/syntax/cvsannotate.vim
+END
+hgannotate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/vim/!svn/ver/1/.vim/syntax/hgannotate.vim
+END
+gitannotate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vim/!svn/ver/1/.vim/syntax/gitannotate.vim
+END
+svkannotate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vim/!svn/ver/1/.vim/syntax/svkannotate.vim
+END
+svnannotate.vim
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/vim/!svn/ver/1/.vim/syntax/svnannotate.vim
+END
